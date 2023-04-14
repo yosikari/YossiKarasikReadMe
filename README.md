@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yossi Karasik.</h1>
+<h1 align="center">Hi 👋,<br/> I'm Yossi Karasik.</h1>
 <h3 align="center">A passionate Fullstuck | FrontEnd developer from Israel</h3>
 
 <p align="center">Check out my portfolio https://YossiKarasik.com</p> 
-<br/><br/>
+<br/>
+
 - 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 
 - 🎯 I recently finished a full-stack boot camp [(Coding Academy)](https://www.coding-academy.org/v3/?cmp=BrandEnglishFeb23&gclid=CjwKCAiAl9efBhAkEiwA4Torigf0sr9cFii_tNJF_GuFoiu0J-abGblKx85dgrnVulaBvWVo--2I4xoCbioQAvD_BwE)
