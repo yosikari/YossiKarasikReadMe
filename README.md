@@ -1,8 +1,33 @@
-<h1 align="center">Hi 👋,<br/> I'm Yossi Karasik.</h1>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yosikari.yosikari">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;.This+is+Yossi+Karasik....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate Fullstuck | FrontEnd developer from Israel</h3>
 
-<p align="center">Check out my portfolio https://YossiKarasik.com</p> 
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/yosikari/">
+      <img src="https://img.shields.io/badge/-yosikari-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+    </a>
+    <a href="https://github.com/yosikari/?tab=follow">
+      <img src="https://img.shields.io/github/followers/yosikari?label=Follow&style=social" alt="GitHub followers">
+    </a>
+    <a href="mailto:yosikari@gmail.com">
+      <img src="https://img.shields.io/badge/-yosikari@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+    </a>
+  </p>
+</div>
+
+  
+<p align="center"><b>Check out my portfolio</b> https://YossiKarasik.com</p> 
 <br/>
+
+<img src='https://res.cloudinary.com/dcqcatktj/image/upload/v1685880339/Monkey_Kid_Coding_yn9x4s.gif' align='left'>
+<br/><br/>
 
 - 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 
@@ -13,13 +38,63 @@
 - 📫 How to reach me **yosikari@gmail.com**
 
 - 💙 Fun fact: I love meditation, running, and drawing 🎨
-<br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/yosikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosikari" height="30" width="40" /></a>
+  <a href="https://yossikarasik.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood" height="40" width="40"/></a>
+  <a href="mailto:yosikari@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="40" width="40"/></a>
+  <a href="https://www.linkedin.com/in/yosikari"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="40" width="40"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+<div align="center">
+  <table style="border-collapse: collapse;" border="0">
+    <tr>
+      <td align="left" style="border: none;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+        </a><br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=sass,materialui,bootstrap,tailwind" />
+        </a>
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+        </a><br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=angular,vue,nextjs,redux" />
+        </a>
+      </td>
+      <td align="right" style="border: none;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postman,mysql,prisma,firebase" />
+        </a><br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=py,flask,cs,dotnet" />
+        </a>
+      </td>
+    </tr>
+  </table>
+          <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,aws,azure,jquery,arduino,php,replit,stackoverflow,vercel,figma" />
+        </a>
+</div>
+
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosikari&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  
+  
+
+
+
+
+
+
+
+
+
+
